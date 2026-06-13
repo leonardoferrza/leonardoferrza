@@ -19,7 +19,7 @@
 
 <td width="60%" valign="top">
 
-## 🩶 Sobre mim
+## Sobre mim
 
 Sou estudante de **Engenharia de Software**, e minhas tardes são dedicadas às aulas da faculdade. 📚
 
