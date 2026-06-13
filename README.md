@@ -1,6 +1,6 @@
 <!-- Efeito de digitação gerado via SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=B000FF&vCenter=true&width=435&lines=Oi%2C+👋;Bem-vindo(a)+ao+meu+perfil!;&multiline=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&color=E8E8E8&vCenter=true&width=550&lines=Bem-vindo(a)+ao+meu+perfil!;Eu+sou+Leonardo+Ferrza&multiline=true" alt="Typing SVG" />
 </a>
 
 <kbd>Full Stack Developer</kbd> | <kbd>UI/UX Designer</kbd>
@@ -8,13 +8,12 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <p>Sou estudante de <b>Engenharia de Software</b>, (Minhas tardes são dedicadas às aulas da faculdade! 📚).</p>
+      <p>Sou estudante de Software</b>, (Minhas tardes são dedicadas às aulas da faculdade! 📚).</p>
       <p>Meu foco é o desenvolvimento <b>Full Stack</b> com uma paixão especial por <b>Front-end, UI/UX e Product Design</b>, atuando também na construção de APIs e análise de dados. Minha meta é sempre unir tecnologias robustas à criação de produtos digitais intuitivos e centrados no usuário.</p>
       <p>🧶 <i>Quando não estou no VS Code ou no Figma, você provavelmente vai me encontrar fazendo crochê ou assistindo episódios de Grimm e Smallville!</i></p>
     </td>
     <td width="40%" align="center" valign="center">
-      <!-- Substitua o link abaixo por um GIF de sua preferência (estilo Studio Ghibli da primeira imagem) -->
-      <img src="https://i.pinimg.com/originals/2c/86/e5/2c86e5e89a2957b4f51e0ca0491fb216.gif" width="100%" alt="Anime Vibes">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Anime Vibes">
     </td>
   </tr>
 </table>
@@ -45,14 +44,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoferrza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoferrza&layout=compact&langs_count=5&theme=dracula&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoferrza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=E8E8E8&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoferrza&layout=compact&langs_count=5&theme=dracula&bg_color=0D1117&title_color=E8E8E8&text_color=C9D1D9"/>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Para a animação da "cobrinha" funcionar, o GitHub Action (snk) precisa estar rodando e gerando o arquivo neste caminho: -->
   <img src="https://raw.githubusercontent.com/leonardoferrza/leonardoferrza/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </div>
 
@@ -61,5 +59,5 @@
 <br>
 
 <div align="center">
-  <b>Obrigado por passar por aqui!</b>
+  <b>Obrigado por passar por aqui! 💜</b>
 </div>
