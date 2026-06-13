@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <p>Sou estudante do 3º semestre de <b>Engenharia de Software</b>, morando em São Luís - MA. (Minhas tardes são dedicadas às aulas da faculdade! 📚).</p>
+      <p>Sou estudante de <b>Engenharia de Software</b>, (Minhas tardes são dedicadas às aulas da faculdade! 📚).</p>
       <p>Meu foco é o desenvolvimento <b>Full Stack</b> com uma paixão especial por <b>Front-end, UI/UX e Product Design</b>, atuando também na construção de APIs e análise de dados. Minha meta é sempre unir tecnologias robustas à criação de produtos digitais intuitivos e centrados no usuário.</p>
       <p>🧶 <i>Quando não estou no VS Code ou no Figma, você provavelmente vai me encontrar fazendo crochê ou assistindo episódios de Grimm e Smallville!</i></p>
     </td>
