@@ -47,18 +47,6 @@ Meu foco é o desenvolvimento **Full Stack**, com uma paixão especial por **Fro
 
 ---
 
-## 📬 Entre em contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-909090?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/leonardoferrza)
-
-[![Gmail](https://img.shields.io/badge/Gmail-707070?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:leoferrza@gmail.com)
-
-</div>
-
----
-
 ## 👾 Linguagens e Tecnologias
 
 <div align="center">
@@ -89,6 +77,76 @@ Meu foco é o desenvolvimento **Full Stack**, com uma paixão especial por **Fro
 
 ---
 
+## 📌 Featured Projects
+
+<p><i>Selected work from my academic and collaborative journey.</i></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Intel Alimentar SLZ
+
+Solução desenvolvida para promover inteligência alimentar e facilitar o acesso a informações relevantes sobre alimentação.
+
+**Tech Stack:** Web Development • UX/UI
+
+🔗 <a href="https://github.com/cassia-nascimento/intel-alimentar-slz">GitHub</a>
+
+> <b>Key learning:</b> colaboração em equipe, desenvolvimento centrado no usuário e construção de soluções com impacto social.
+
+</td>
+
+<td width="50%" valign="top">
+
+### WeNove
+
+Projeto colaborativo voltado para a criação de experiências digitais intuitivas e acessíveis.
+
+**Tech Stack:** Full-Stack • UX/UI
+
+🔗 <a href="https://github.com/cassia-nascimento/WeNove">GitHub</a>
+
+> <b>Key learning:</b> integração full stack, design de interfaces, trabalho em equipe e prototipação de soluções digitais.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### AM-Consultoria
+
+Plataforma de inteligência operacional e auditoria, com dashboards estratégicos para tomada de decisão.
+
+**Tech Stack:** FastAPI • Next.js • PostgreSQL
+
+🔗 <a href="https://github.com/cassia-nascimento/AM-Consultoria">GitHub</a><br>
+🌐 <a href="https://am-consultoria.vercel.app/dashboard">Live Demo</a>
+
+> <b>Key learning:</b> integração full stack, orquestração de dados e construção de interfaces analíticas.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Nexus US
+
+Simulação desenvolvida no programa No Country, focada na criação de uma plataforma moderna para formação de LLC nos Estados Unidos.
+
+**Tech Stack:** Next.js • Framer • Stripe
+
+🔗 <a href="https://github.com/No-Country-simulation/S02-26-Equipe-40-Web-App-Development">GitHub</a><br>
+🌐 <a href="https://nnexus.framer.website/">Live Demo</a>
+
+> <b>Key learning:</b> colaboração internacional, desenvolvimento orientado a produto e experiências premium para o usuário.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -116,6 +174,17 @@ Meu foco é o desenvolvimento **Full Stack**, com uma paixão especial por **Fro
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/leonardoferrza/leonardoferrza/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+## 📬 Entre em contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-909090?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/leonardoferrza)
+
+[![Gmail](https://img.shields.io/badge/Gmail-707070?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:leoferrza@gmail.com)
 
 </div>
 
