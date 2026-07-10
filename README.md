@@ -106,6 +106,7 @@ Projeto colaborativo voltado para a criação de experiências digitais intuitiv
 **Tech Stack:** Full-Stack • UX/UI
 
 🔗 <a href="https://github.com/cassia-nascimento/WeNove">GitHub</a>
+🌐 <a href="https://wenove.vercel.app/">Live Demo</a>
 
 > <b>Key learning:</b> integração full stack, design de interfaces, trabalho em equipe e prototipação de soluções digitais.
 
