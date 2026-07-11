@@ -193,7 +193,6 @@ Simulação desenvolvida no programa No Country, focada na criação de uma plat
 
 <div align="center">
 
-### 💫 Obrigado por passar por aqui!
 
 *"Cada linha de código é uma oportunidade para construir algo significativo."*
 
