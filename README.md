@@ -6,7 +6,7 @@
 
 <br><br>
 
-<kbd>Full Stack Developer</kbd>
+<kbd>Front-End Developer</kbd>
   ✦   <kbd>UI/UX Designer</kbd>
   ✦   <kbd>Product Enthusiast</kbd>
 
