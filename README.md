@@ -6,7 +6,7 @@
 
 <br><br>
 
-<kbd>Front-End Developer</kbd>
+<kbd>Full Stack Developer</kbd>
   ✦   <kbd>UI/UX Designer</kbd>
   ✦   <kbd>Product Enthusiast</kbd>
 
@@ -23,7 +23,7 @@
 
 Sou estudante de **Engenharia de Software**, e minhas tardes são dedicadas às aulas da faculdade. 📚
 
-Meu foco é o desenvolvimento **Full Stack**, com uma paixão especial por **Front-end, UI/UX e Product Design**. Também atuo na construção de APIs e na análise de dados, buscando sempre unir tecnologias robustas à criação de produtos digitais intuitivos e centrados no usuário.
+Meu foco é o desenvolvimento **Full Stack** web, com uma paixão especial por **Front-end, UI/UX e Product Design**. Também atuo na construção de APIs e na análise de dados, buscando sempre unir tecnologias robustas à criação de produtos digitais intuitivos e centrados no usuário.
 
 ### ✨ Curiosidades
 
@@ -91,8 +91,7 @@ Solução desenvolvida para promover inteligência alimentar e facilitar o acess
 
 **Tech Stack:** Web Development • UX/UI
 
-🔗 <a href="https://github.com/leonardoferrza/intel-alimentar-slz">GitHub</a>
-🔗 <a href=>GitHub</a>
+🔗 <a href="https://github.com/leonardoferrza/intel-alimentar-slz">GitHub</a><br>
 🌐 <a href="intel-alimentar-slz.onrender.com">Live Demo</a>
 
 > <b>Key learning:</b> colaboração em equipe, desenvolvimento centrado no usuário e construção de soluções com impacto social.
@@ -107,7 +106,7 @@ Projeto colaborativo voltado para a criação de experiências digitais intuitiv
 
 **Tech Stack:** Full-Stack • UX/UI
 
-🔗 <a href="https://github.com/leonardoferrza/WeNove">GitHub</a>
+🔗 <a href="https://github.com/leonardoferrza/WeNove">GitHub</a><br>
 🌐 <a href="https://wenove.vercel.app/">Live Demo</a>
 
 > <b>Key learning:</b> integração full stack, design de interfaces, trabalho em equipe e prototipação de soluções digitais.
