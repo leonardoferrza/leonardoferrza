@@ -91,7 +91,9 @@ Solução desenvolvida para promover inteligência alimentar e facilitar o acess
 
 **Tech Stack:** Web Development • UX/UI
 
-🔗 <a href="https://github.com/cassia-nascimento/intel-alimentar-slz">GitHub</a>
+🔗 <a href="https://github.com/leonardoferrza/intel-alimentar-slz">GitHub</a>
+🔗 <a href=>GitHub</a>
+🌐 <a href="intel-alimentar-slz.onrender.com">Live Demo</a>
 
 > <b>Key learning:</b> colaboração em equipe, desenvolvimento centrado no usuário e construção de soluções com impacto social.
 
@@ -105,7 +107,7 @@ Projeto colaborativo voltado para a criação de experiências digitais intuitiv
 
 **Tech Stack:** Full-Stack • UX/UI
 
-🔗 <a href="https://github.com/cassia-nascimento/WeNove">GitHub</a>
+🔗 <a href="https://github.com/leonardoferrza/WeNove">GitHub</a>
 🌐 <a href="https://wenove.vercel.app/">Live Demo</a>
 
 > <b>Key learning:</b> integração full stack, design de interfaces, trabalho em equipe e prototipação de soluções digitais.
@@ -122,7 +124,7 @@ Plataforma de inteligência operacional e auditoria, com dashboards estratégico
 
 **Tech Stack:** FastAPI • Next.js • PostgreSQL
 
-🔗 <a href="https://github.com/cassia-nascimento/AM-Consultoria">GitHub</a><br>
+🔗 <a href="https://github.com/leonardoferrza/AM-Consultoria">GitHub</a><br>
 🌐 <a href="https://am-consultoria.vercel.app/dashboard">Live Demo</a>
 
 > <b>Key learning:</b> integração full stack, orquestração de dados e construção de interfaces analíticas.
