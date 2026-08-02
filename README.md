@@ -92,7 +92,7 @@ Solução desenvolvida para promover inteligência alimentar e facilitar o acess
 **Tech Stack:** Web Development • UX/UI
 
 🔗 <a href="https://github.com/leonardoferrza/intel-alimentar-slz">GitHub</a><br>
-🌐 <a href="intel-alimentar-slz.onrender.com">Live Demo</a>
+🌐 <a href="https://intel-alimentar-slz.onrender.com">Live Demo</a>
 
 > <b>Key learning:</b> colaboração em equipe, desenvolvimento centrado no usuário e construção de soluções com impacto social.
 
