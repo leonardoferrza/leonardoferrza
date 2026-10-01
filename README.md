@@ -87,7 +87,7 @@ Meu foco é o desenvolvimento **Full Stack** web, com uma paixão especial por *
 
 ### Intel Alimentar SLZ
 
-Solução desenvolvida para promover inteligência alimentar e facilitar o acesso a informações relevantes sobre alimentação.
+Projeto desenvolvido para transformar dados e informações sobre alimentação em uma experiência digital mais acessível e útil.
 
 **Tech Stack:** Web Development • UX/UI
 
@@ -156,16 +156,6 @@ Simulação desenvolvida no programa No Country, focada na criação de uma plat
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoferrza&show_icons=true&bg_color=0D1117&title_color=C0C0C0&text_color=E5E5E5&icon_color=D9D9D9&border_color=30363D"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoferrza&layout=compact&langs_count=6&bg_color=0D1117&title_color=C0C0C0&text_color=E5E5E5&border_color=30363D"/>
-
-</div>
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoferrza&bg_color=0D1117&color=C0C0C0&line=D9D9D9&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
